@@ -1,0 +1,49 @@
+Wanna hear a UDP joke? You might not get it.
+%
+/* please work */
+%
+// do not remove this comment.
+%
+"I can't access git. I guess I have... commitment issues!"
+%
+.titanic { float:none; }
+%
+big-bang::before { content: ""; }
+%
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.
+It was a trip down Memory Lane.
+%
+A programmer’s wife asks: “Would you go to the shop and pick up a loaf of bread? And if they have eggs, get a dozen.”
+The programmer returns home with 12 loaves of bread.
+“They had eggs.”
+%
+!false
+(It’s funny because it’s true.)
+%
+Why do programmers always mix up Christmas and Halloween?
+Because Dec 25 is Oct 31.
+%
+An SQL query goes into a bar, walks up to two tables and asks: “Can I join you?”
+%
+[“hip”,”hip”] (hip hip array!)
+%
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+%
+What did the router say to the doctor?
+“It hurts when IP”
+%
+Moses had the first tablet that could connect to the cloud.
+%
+The first computer dates back to Adam and Eve.
+It was an Apple with limited memory, just one byte. And then everything crashed.
+%
+If at first you don’t succeed; call it version 1.0.
+%
+The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+%
+Black holes are where God divided by zero.
+%
+QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+%
+.wife { right: 100%; margin: 0; }
