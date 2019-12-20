@@ -49,3 +49,13 @@ QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 be
 .wife { right: 100%; margin: 0; }
 %
 Debugging - The classic mystery game where you are the detective, the victim, and the murderer!
+%
+If a programmer gets an interview because of a recommendation, are they being passed by reference?
+%
+['S','u','n','s','h','i','n','e'] - Array of sunshine
+%
+How long does a loop last? For a while.
+%
+Two SQL developers walk into a bar and then walk straight out... Because there were no tables they could join.
+%
+Why did the web developer accept a 200 dollar raise? Because 200 is OK.
