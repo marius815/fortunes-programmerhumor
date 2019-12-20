@@ -47,3 +47,5 @@ Black holes are where God divided by zero.
 QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
 %
 .wife { right: 100%; margin: 0; }
+%
+Debugging - The classic mystery game where you are the detective, the victim, and the murderer!
