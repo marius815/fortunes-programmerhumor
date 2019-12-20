@@ -24,8 +24,14 @@ if [ "$?" -eq "0" ]; then
     mv ${output} ${outputdir}/
 
     echo
-    echo "Success. To use the data file, copy it to the fortunes"
-    echo "data directory, usually /usr/share/games/fortunes and"
+    echo "Success. To use the data file, with the appropriate"
+    echo "privileges, copy it to the fortunes data directory"
+    echo "(usually /usr/share/games/fortunes):"
+    echo
+    echo "cp ${outputdir}/programmerhumor* /usr/share/games/fortunes/"
+    echo
     echo "then run it with the command:"
+    echo
     echo "fortune ${output%.*}"
+    echo
 fi
